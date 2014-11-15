@@ -85,3 +85,9 @@ MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, г
 
 ![sublime](https://cloud.githubusercontent.com/assets/2376618/5059014/6200b4f6-6d1c-11e4-85b9-762e66d36420.png)
 ![netbeans](https://cloud.githubusercontent.com/assets/2376618/5059013/61d84246-6d1c-11e4-8389-b885205efa73.png)
+
+#### [@awingoradov]()
+
+WebStorm и терминал. На соседнем спейсе браузер. Для "легких" проектов использую Atom.
+
+![ws](http://oi57.tinypic.com/rw5id2.jpg)
