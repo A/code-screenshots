@@ -68,6 +68,7 @@ Sublime Text 3. Тема: Seti_UI. Сплит на три экрана, если
 far, conemu, mc, droidedit, mao. При помощи conemu делаю закладки в фаре, открыто 1-5 закладок с редакторами или файловыми панелями. В качестве второго монитора использую экран ноутбука ux32vd установленный вертикально и вывожу в него браузер и консоль с логами. Возле монитора (dell 24") стоит бронзовый идол вождя всех китайцев  (тов. Мао), подареный заказчиками. Исходники храню одновременно в dropbox, github, npm. Стиль кода в общем виден на фото, табов - нет, отступ - 2 пробела, commonjs и dependency injection - нет, ide - нет, автодополнения и подсказок - нет, jshint/jslint - нет, ничего нет, нужно просто ставить буквы в нужном порядке.
 
 ![mao](https://cloud.githubusercontent.com/assets/4405297/5058454/1cc8884a-6cfa-11e4-9ad1-9ea91c621660.jpg)
+<<<<<<< HEAD
 ![far-conemu-mc](https://cloud.githubusercontent.com/assets/4405297/5058976/97eca07a-6d12-11e4-8508-f3ee573f40c9.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058975/97e7df86-6d12-11e4-8a9b-e1203fc48e44.png)
 
@@ -77,3 +78,10 @@ MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, г
 
 ![sublime](http://i.imgur.com/hR3ciHD.png)
 ![iterm](http://i.imgur.com/eYNBsoJ.png)
+
+#### [@rhamdeew](https://twitter.com/rhamdeew)
+
+Обычно 90% времени на одном из рабочих столов открыт Sublime Text 2 с дефолтной темой, на другом рабочем столе браузер и на третьем IDE (в данном случае Netbeans с темой Zenburn). Переключаюсь между столами по ctrl+[←|→] в XFCE 4.
+
+![sublime](https://cloud.githubusercontent.com/assets/2376618/5059014/6200b4f6-6d1c-11e4-85b9-762e66d36420.png)
+![netbeans](https://cloud.githubusercontent.com/assets/2376618/5059013/61d84246-6d1c-11e4-8389-b885205efa73.png)
