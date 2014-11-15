@@ -69,7 +69,3 @@ far, conemu, mc, droidedit, mao. При помощи conemu делаю закл�
 ![mao](https://cloud.githubusercontent.com/assets/4405297/5058454/1cc8884a-6cfa-11e4-9ad1-9ea91c621660.jpg)
 ![far-conemu-mc](https://cloud.githubusercontent.com/assets/4405297/5058976/97eca07a-6d12-11e4-8508-f3ee573f40c9.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058975/97e7df86-6d12-11e4-8a9b-e1203fc48e44.png)
-
-### Как сделать скриншот?
-
-На Mac OS X нужно нажать `cmd+shift+4` затем пробел и кликнуть на нужное окно.
