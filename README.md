@@ -9,9 +9,29 @@ code-screenshots
 #### [@shuvalov-anton](https://twitter.com/shuvalov_anton)
 
 Vim. Обычно у меня открыто 3 вертикальных сплита и несколько вкладок, так ограничение длины строки
-в 80 символов мне кажется разумным даже для широких дисплеев. 
+в 80 символов мне кажется разумным даже для широких дисплеев.
 
 ![image](https://cloud.githubusercontent.com/assets/1410106/5058193/d220b004-6cf6-11e4-9e04-6f2dc2520b9d.png)
+
+#### [@filipovskii](https://twitter.com/filipovskii)
+
+Vim + [iTerm|Chrome]. Vim слева, терминал или браузер справа.
+[SizeUp](http://www.irradiatedsoftware.com/sizeup/) для сортировки окон.
+
+![@filipovskii screen](https://cloud.githubusercontent.com/assets/610717/5058489/149fc950-6cf3-11e4-848b-0e7335ca4af6.png)
+
+[Мой .vim](https://github.com/filipovskii/vimfiles).
+
+Если справа терминал, в нём запущены тесты. Рестартуют на каждое
+сохранение.
+
+Если справа браузер, открыта нужная страница с
+[livereload](http://livereload.com/).
+
+Уверен что ограничения, вроде небольшого экрана или отсутствия
+навороченной IDE, закаляет дух и воспитывают чувство вкуса программиста.
+
+На работе и дома использую только 13" экран ноута.
 
 
 ### Как сделать скриншот?
