@@ -85,3 +85,9 @@ MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, г
 
 ![sublime](https://cloud.githubusercontent.com/assets/2376618/5059014/6200b4f6-6d1c-11e4-85b9-762e66d36420.png)
 ![netbeans](https://cloud.githubusercontent.com/assets/2376618/5059013/61d84246-6d1c-11e4-8389-b885205efa73.png)
+
+#### [@yeti-or](https://twitter.com/Yeti_or)
+
+Air 13", Vim + [totalTerminal](https://github.com/binaryage/totalterminal) TT позволяет лекго скрывать терминал по <code>ctrl + `</code>, под терминалом открыт браузер
+
+![vim](https://cloud.githubusercontent.com/assets/1813468/5059628/f7393c94-6d32-11e4-9704-1aa86b58f8e8.png)
