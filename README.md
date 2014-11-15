@@ -17,10 +17,8 @@ Vim. Обычно у меня открыто 3 вертикальных спли
 
 far, conemu, mc, droidedit, mao. При помощи conemu делаю закладки в фаре, открыто 1-5 закладок с редакторами или файловыми панелями. В качестве второго монитора использую экран ноутбука ux32vd установленный вертикально и вывожу в него браузер и консоль с логами. Возле монитора (dell 24") стоит бронзовый идол вождя всех китайцев  (тов. Мао), подареный заказчиками. Исходники храню одновременно в dropbox, github, npm. Стиль кода в общем виден на фото, табов - нет, отступ - 2 пробела, commonjs и dependency injection - нет, ide - нет, автодополнения и подсказок - нет, jshint/jslint - нет, ничего нет, нужно просто ставить буквы в нужном порядке.
 ![mao](https://cloud.githubusercontent.com/assets/4405297/5058454/1cc8884a-6cfa-11e4-9ad1-9ea91c621660.jpg)
-![far](https://cloud.githubusercontent.com/assets/4405297/5058452/1ca35ce6-6cfa-11e4-870f-ec68bebff411.png)
-![mc](https://cloud.githubusercontent.com/assets/4405297/5058453/1cbbebb2-6cfa-11e4-8f0c-4d11ab38a82f.png)
-![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058472/d75c71a8-6cfa-11e4-9165-fee7dedd5366.png)
-![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058468/bca15d74-6cfa-11e4-82be-b7f83a249951.png)
+![far-conemu-mc](https://cloud.githubusercontent.com/assets/4405297/5058976/97eca07a-6d12-11e4-8508-f3ee573f40c9.png)
+![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058975/97e7df86-6d12-11e4-8a9b-e1203fc48e44.png)
 
 ### Как сделать скриншот?
 
