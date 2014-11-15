@@ -71,3 +71,10 @@ far, conemu, mc, droidedit, mao. При помощи conemu делаю закл�
 ![mc](https://cloud.githubusercontent.com/assets/4405297/5058453/1cbbebb2-6cfa-11e4-8f0c-4d11ab38a82f.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058472/d75c71a8-6cfa-11e4-9165-fee7dedd5366.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058468/bca15d74-6cfa-11e4-82be-b7f83a249951.png)
+
+#### [@prbigbrother](http://twitter.com/prbigbrother)
+
+MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, где слева правлю разметку, справа пишу стили и JS. Когда подключаю монитор, на него кидаю iTerm, браузер и Dev Tools. iTerm обычно расбит на два горизионтальных сплита, в верхнем отрабатывает gulp, в нижнем чаще всего git.Для лайврелоуда использую связку [BrowserSync + Gulp.js](http://www.browsersync.io/docs/gulp/)
+
+![sublime](http://i.imgur.com/hR3ciHD.png)
+![iterm](http://i.imgur.com/eYNBsoJ.png)
