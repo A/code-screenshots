@@ -68,7 +68,6 @@ Sublime Text 3. Тема: Seti_UI. Сплит на три экрана, если
 far, conemu, mc, droidedit, mao. При помощи conemu делаю закладки в фаре, открыто 1-5 закладок с редакторами или файловыми панелями. В качестве второго монитора использую экран ноутбука ux32vd установленный вертикально и вывожу в него браузер и консоль с логами. Возле монитора (dell 24") стоит бронзовый идол вождя всех китайцев  (тов. Мао), подареный заказчиками. Исходники храню одновременно в dropbox, github, npm. Стиль кода в общем виден на фото, табов - нет, отступ - 2 пробела, commonjs и dependency injection - нет, ide - нет, автодополнения и подсказок - нет, jshint/jslint - нет, ничего нет, нужно просто ставить буквы в нужном порядке.
 
 ![mao](https://cloud.githubusercontent.com/assets/4405297/5058454/1cc8884a-6cfa-11e4-9ad1-9ea91c621660.jpg)
-<<<<<<< HEAD
 ![far-conemu-mc](https://cloud.githubusercontent.com/assets/4405297/5058976/97eca07a-6d12-11e4-8508-f3ee573f40c9.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058975/97e7df86-6d12-11e4-8a9b-e1203fc48e44.png)
 
@@ -91,3 +90,14 @@ MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, г
 Air 13", Vim + [totalTerminal](https://github.com/binaryage/totalterminal) TT позволяет лекго скрывать терминал по <code>ctrl + `</code>, под терминалом открыт браузер
 
 ![vim](https://cloud.githubusercontent.com/assets/1813468/5059628/f7393c94-6d32-11e4-9704-1aa86b58f8e8.png)
+
+#### [@NikNarmo](https://twitter.com/NikNarmo)
+
+Работаю за MacBook Pro 15", практически всегда с подключенным монитором (1920x1080).
+
+Xcode. Обычно открыто несколько вкладок в режиме Counterparts (в центре — основной файл, справа — заголовочный файл). Цветовая схема по умолчанию.
+
+Sublime Text. Использую для простых проектов или скриптов (LaTeX, Python).
+
+![xcode](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/xcode.png)
+![sublime](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/sublime.png)
