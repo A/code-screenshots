@@ -13,6 +13,11 @@ Vim. Обычно у меня открыто 3 вертикальных спли
 
 ![image](https://cloud.githubusercontent.com/assets/1410106/5058193/d220b004-6cf6-11e4-9e04-6f2dc2520b9d.png)
 
+#### [@pepelsbey](https://twitter.com/pepelsbey)
+
+Sublime Text. Всегда одновременно открыт один файл, сайдбар открыт на всякий случай, вся навигация по файлам по `Cmd P`. Цветовая схема принципиально светлая, добрее для глаз.
+
+![image](https://cloud.githubusercontent.com/assets/105274/5058566/77739bb2-6cf6-11e4-8d21-02e172306440.png)
 
 ### Как сделать скриншот?
 
