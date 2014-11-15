@@ -85,3 +85,14 @@ MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, г
 
 ![sublime](https://cloud.githubusercontent.com/assets/2376618/5059014/6200b4f6-6d1c-11e4-85b9-762e66d36420.png)
 ![netbeans](https://cloud.githubusercontent.com/assets/2376618/5059013/61d84246-6d1c-11e4-8389-b885205efa73.png)
+
+#### [@NikNarmo](https://twitter.com/NikNarmo)
+
+Работаю за MacBook Pro 15", практически всегда с подключенным монитором (1920x1080).
+
+Xcode. Обычно открыто несколько вкладок в режиме Counterparts (в центре — основной файл, справа — заголовочный файл). Цветовая схема по умолчанию.
+
+Sublime Text. Использую для простых проектов или скриптов (LaTeX, Python).
+
+![xcode](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/xcode.png)
+![sublime](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/sublime.png)
