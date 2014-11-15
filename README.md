@@ -8,7 +8,8 @@ code-screenshots
 
 #### [@shuvalov-anton](https://twitter.com/shuvalov_anton)
 
-Vim
+Vim. Обычно у меня открыто 3 вертикальных сплита и несколько вкладок, так ограничение длины строки
+в 80 символов мне кажется разумным даже для широких дисплеев. 
 
 ![image](https://cloud.githubusercontent.com/assets/1410106/5058193/d220b004-6cf6-11e4-9e04-6f2dc2520b9d.png)
 
