@@ -24,6 +24,13 @@ Sublime Text. Всегда одновременно открыт один фай
 
 ![image](https://cloud.githubusercontent.com/assets/105274/5058566/77739bb2-6cf6-11e4-8d21-02e172306440.png)
 
+#### [@maikudou](https://twitter.com/maikudou)
+
+SublimeText 3. [Monokai Soda Dark 3](https://github.com/buymeasoda/soda-theme/). Сплиты не люблю и не умею. Каждый проект (папка) в отдельном окне, навигация сайдбаром и по поиску файлов через cmd+t. Ширина — как придется, высота — на полную, сколько есть.
+
+![image](http://maikudou.net/maikudou_screen.png)
+
+
 #### [@ImpressAppSrv](https://twitter.com/ImpressAppSrv)
 
 far, conemu, mc, droidedit, mao. При помощи conemu делаю закладки в фаре, открыто 1-5 закладок с редакторами или файловыми панелями. В качестве второго монитора использую экран ноутбука ux32vd установленный вертикально и вывожу в него браузер и консоль с логами. Возле монитора (dell 24") стоит бронзовый идол вождя всех китайцев  (тов. Мао), подареный заказчиками. Исходники храню одновременно в dropbox, github, npm. Стиль кода в общем виден на фото, табов - нет, отступ - 2 пробела, commonjs и dependency injection - нет, ide - нет, автодополнения и подсказок - нет, jshint/jslint - нет, ничего нет, нужно просто ставить буквы в нужном порядке.
