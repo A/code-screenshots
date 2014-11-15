@@ -77,4 +77,3 @@ MBA 11", Sublime, Тема Seti Ui + Monokai. Чаще всего сплит, г
 
 ![sublime](http://i.imgur.com/hR3ciHD.png)
 ![iterm](http://i.imgur.com/eYNBsoJ.png)
->>>>>>> Update README.md
