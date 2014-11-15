@@ -71,3 +71,10 @@ far, conemu, mc, droidedit, mao. При помощи conemu делаю закл�
 ![mc](https://cloud.githubusercontent.com/assets/4405297/5058453/1cbbebb2-6cfa-11e4-8f0c-4d11ab38a82f.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058472/d75c71a8-6cfa-11e4-9165-fee7dedd5366.png)
 ![droidedit](https://cloud.githubusercontent.com/assets/4405297/5058468/bca15d74-6cfa-11e4-82be-b7f83a249951.png)
+
+#### [@rhamdeew](https://twitter.com/rhamdeew)
+
+Обычно 90% времени на одном из рабочих столов открыт Sublime Text 2 с дефолтной темой, на другом рабочем столе браузер и на третьем IDE (в данном случае Netbeans с темой Zenburn). Переключаюсь между столами по ctrl+[←|→] в XFCE 4.
+
+![sublime](https://cloud.githubusercontent.com/assets/2376618/5059014/6200b4f6-6d1c-11e4-85b9-762e66d36420.png)
+![netbeans](https://cloud.githubusercontent.com/assets/2376618/5059013/61d84246-6d1c-11e4-8389-b885205efa73.png)
