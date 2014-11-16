@@ -152,3 +152,11 @@ Right Side - [iTerm2](http://iterm2.com/), iTerm Theme: [Tomorrow Night](https:/
 Environment: Hackintosh 10.9.5 CustoMac.
 
 ![image](https://raw.githubusercontent.com/mugukamil/mugukamil.github.io/master/images/screen.png)
+
+#### [@kyuujitsu](https://twitter.com/kyuujitsu)
+
+Vim, Tmux. Обычно работаю в двух вертикальных сплитах, редко использую Vim tabs, почти всегда в полноэкранном режиме. Сильно злоупотребляю окнами Tmux.
+
+Тема: чуть измененный Hybrid и [t-t-t-tmux](http://dotshare.it/dots/686/).
+
+![iterm-tmux-vim](http://i.imgur.com/2W5sEqn.png)
