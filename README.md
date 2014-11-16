@@ -136,3 +136,9 @@ i3wm|Emacs|urxvt|FireFox
 
 ![emacs_and_terms](http://i.imgur.com/RevQ5GD.png)
 ![emacs_term_and_browser](http://i.imgur.com/5hMDnnl.png)
+
+#### [@Soul_Wish](https://twitter.com/Soul_Wish)
+
+Asus 15.6". Sublime Text 3. Иногда использую сайдбар для навигации, но все чаще это `Ctrl+P`. Цветовая схема темная: [Spacegray](http://kkga.github.io/spacegray/). В строке состояния отчеты линтера + информация о текущей ветке (плагин git).
+
+![image](https://cloud.githubusercontent.com/assets/1968098/5061697/af3c9bde-6daa-11e4-8988-3abae00354e5.png)
