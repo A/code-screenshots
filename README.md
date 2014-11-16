@@ -163,7 +163,7 @@ Vim, Tmux. Обычно работаю в двух вертикальных сп
 
 #### [@padna](https://twitter.com/padna)
 
-Ubuntu 14.04, SublimeText 3 [ST 3](http://www.sublimetext.com/), Theme: Monokai.
+Ubuntu 14.04, [SublimeText 3](http://www.sublimetext.com/), Theme: Monokai.
 
 Обычно использую VirtualBox + Vagrant. Один инстанс для одного проекта.
 
