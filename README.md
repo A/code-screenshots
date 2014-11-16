@@ -165,6 +165,7 @@ Vim, Tmux. Обычно работаю в двух вертикальных сп
 
 Ubuntu 14.04, [SublimeText 3](http://www.sublimetext.com/), Theme: Monokai.
 
-Обычно использую VirtualBox + Vagrant. Один инстанс для одного проекта.
+Обычно использую VirtualBox + Vagrant. Один инстанс для одного проекта. Редко использую сплит, экран ноута не позволяет всё-таки.
+Но мне хватает и одного окна + стандартных вкладок саблайма. Из плагинов Emmet, phpfmt, и еще парочка
 
-![image](https://lh3.googleusercontent.com/kbnTIOkoYmJPX4cjmF3gJ7Lmo8elMhZ43R8KbkPZC-ciV6liP6WxAgy0O4OPmpphRr7h=w1303-h539)
+![image](http://i.imgur.com/aBhwzbX.png)
