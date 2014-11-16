@@ -167,4 +167,4 @@ Ubuntu 14.04, SublimeText 3 [ST 3](http://www.sublimetext.com/), Theme: Monokai.
 
 Обычно использую VirtualBox + Vagrant. Один инстанс для одного проекта.
 
-![image](https://drive.google.com/file/d/0B_dy1mdOAFmpanVKeGxDMjRubmM/view?usp=sharing)
+![image](https://lh3.googleusercontent.com/kbnTIOkoYmJPX4cjmF3gJ7Lmo8elMhZ43R8KbkPZC-ciV6liP6WxAgy0O4OPmpphRr7h=w1303-h539)
