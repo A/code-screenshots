@@ -160,3 +160,11 @@ Vim, Tmux. Обычно работаю в двух вертикальных сп
 Тема: чуть измененный Hybrid и [t-t-t-tmux](http://dotshare.it/dots/686/).
 
 ![iterm-tmux-vim](http://i.imgur.com/2W5sEqn.png)
+
+#### [@padna](https://twitter.com/padna)
+
+Ubuntu 14.04, SublimeText 3 [ST 3](http://www.sublimetext.com/), Theme: Monokai.
+
+Обычно использую VirtualBox + Vagrant. Один инстанс для одного проекта.
+
+![image](https://drive.google.com/file/d/0B_dy1mdOAFmpanVKeGxDMjRubmM/view?usp=sharing)
