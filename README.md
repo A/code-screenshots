@@ -101,3 +101,9 @@ Sublime Text. Использую для простых проектов или �
 
 ![xcode](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/xcode.png)
 ![sublime](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/sublime.png)
+
+#### [@awingoradov]()
+
+WebStorm и терминал. На соседнем спейсе браузер. Для "легких" проектов использую Atom.
+
+![ws](http://oi57.tinypic.com/rw5id2.jpg)
