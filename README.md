@@ -117,3 +117,16 @@ Atom + плагины.
 Тема Neutron UI + File Icons.
 
 ![atom](https://cloud.githubusercontent.com/assets/200119/5059111/91e59a26-6d1f-11e4-8603-f439d1a2f3a0.png)
+
+#### [alex_pir](https://twitter.com/alex_pir)
+
+Оконный менеджер|Редактор|Эмулятор терминала|Браузер
+:--:|:--:|:--:|:--:
+i3wm|Emacs|urxvt|FireFox
+
+[i3](http://i3wm.org) помогает удобно располагать окна. Обычно, это одно основное окно и несколько сателлитов поменьше, которые укладываются в столбик/вкладки в правой трети экрана. Ну а **Emacs** редактор/IDE для всех языков, на которых я пишу. А цвета у меня почти везде [solarized](http://ethanschoonover.com/solarized).
+
+Типичный layout:
+
+![emacs_and_terms](http://i.imgur.com/RevQ5GD.png)
+![emacs_term_and_browser](http://i.imgur.com/5hMDnnl.png)
