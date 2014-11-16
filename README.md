@@ -123,3 +123,16 @@ Atom + плагины.
 Vim. Несколько вкладок, при необходимости один вертикальный split. Цветовая схема wombat, активные линтеры.
 
 ![image](http://i57.tinypic.com/fc40g1.png)
+
+#### [alex_pir](https://twitter.com/alex_pir)
+
+Оконный менеджер|Редактор|Эмулятор терминала|Браузер
+:--:|:--:|:--:|:--:
+i3wm|Emacs|urxvt|FireFox
+
+[i3](http://i3wm.org) помогает удобно располагать окна. Обычно, это одно основное окно и несколько сателлитов поменьше, которые укладываются в столбик/вкладки в правой трети экрана. Ну а **Emacs** редактор/IDE для всех языков, на которых я пишу. А цвета у меня почти везде [solarized](http://ethanschoonover.com/solarized).
+
+Типичный layout:
+
+![emacs_and_terms](http://i.imgur.com/RevQ5GD.png)
+![emacs_term_and_browser](http://i.imgur.com/5hMDnnl.png)
