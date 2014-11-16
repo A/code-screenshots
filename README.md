@@ -117,3 +117,9 @@ Atom + плагины.
 Тема Neutron UI + File Icons.
 
 ![atom](https://cloud.githubusercontent.com/assets/200119/5059111/91e59a26-6d1f-11e4-8603-f439d1a2f3a0.png)
+
+#### [@erthalion](https://twitter.com/erthalion)
+
+Vim. Несколько вкладок, при необходимости один вертикальный split. Цветовая схема wombat, активные линтеры.
+
+![image](http://i57.tinypic.com/fc40g1.png)
