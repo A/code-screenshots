@@ -145,7 +145,9 @@ Asus 15.6". Sublime Text 3. Иногда использую сайдбар дл�
 
 #### [@mugukamil](https://github.com/mugukamil)
 
-Left Side - Text Editor: Sublime Text 2, Theme: Soda, Color Scheme: Monokai Soda, Font: Meslo/13
-Right Side - iTerm2, iTerm Color Scheme: tomorrow night, Env: zsh with oh-my-zsh, oh-my-zsh-theme: Cloud, font: Meslo LG S for Powerline/13.5.
+Left Side - Text Editor: Sublime Text 2, Theme: [Soda](https://github.com/buymeasoda/soda-theme/), Color Scheme: [Monokai Soda](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip), Font: Meslo/13
+Right Side - iTerm2, iTerm Color Scheme: [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/blob/master/iTerm2/Tomorrow%20Night.itermcolors), Shell: oh-my-zsh, Shell-Theme: Cloud, font: [Meslo LG S for Powerline](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20S%20Regular%20for%20Powerline.otf) 13.5.
 
-![image](http://pic.dagtk.net/x/1/bd8ded/6e2181cd.png)
+Environment: Hackintosh 10.9.5 CustoMac.
+
+![image](https://raw.githubusercontent.com/mugukamil/mugukamil.github.io/master/images/screen.png)
