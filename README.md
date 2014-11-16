@@ -142,3 +142,10 @@ i3wm|Emacs|urxvt|FireFox
 Asus 15.6". Sublime Text 3. Иногда использую сайдбар для навигации, но все чаще это `Ctrl+P`. Цветовая схема темная: [Spacegray](http://kkga.github.io/spacegray/). В строке состояния отчеты линтера + информация о текущей ветке (плагин git).
 
 ![image](https://cloud.githubusercontent.com/assets/1968098/5061697/af3c9bde-6daa-11e4-8988-3abae00354e5.png)
+
+#### [@mugukamil](https://github.com/mugukamil)
+
+Left Side - Text Editor: Sublime Text 2, Theme: Soda, Color Scheme: Monokai Soda, Font: Meslo/13
+Right Side - iTerm2, iTerm Color Scheme: tomorrow night, Env: zsh with oh-my-zsh, oh-my-zsh-theme: Cloud, font: Meslo LG S for Powerline/13.5.
+
+![image](http://pic.dagtk.net/x/1/bd8ded/6e2181cd.png)
