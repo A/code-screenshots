@@ -229,3 +229,12 @@ Tmux загружаемый в трминале по умолчанию, split p
 ![vim+tmux](https://raw.githubusercontent.com/smileart/omg/develop/images/screenshot.png)
 
 ![tmux_panel](https://raw.githubusercontent.com/smileart/omg/develop/images/tmux_panel.png)
+
+#### [@dan_abramov](http://twitter.com/dan_abramov)
+
+![Spacegray](http://i.imgur.com/ydvRTWx.png)
+
+* Device: rMBP 15'
+* Font: [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas)
+* Editor: Sublime Text 3
+* Theme and Color Scheme: [Spacegray (Light|Eighties)?](https://github.com/kkga/spacegray)
