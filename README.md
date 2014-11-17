@@ -182,3 +182,17 @@ MBP 13". Vim (мой [vimrc](https://github.com/davydovanton/dotfiles/blob/maste
 Навигация по NERDTree, ctrlp + буфферы. В insert моде, для мелких перемещений курсора, использую emacs-like хоткеи. Иногда выручает [slime](https://github.com/jpalardy/vim-slime).
 Из GUI открыт всегда только браузер, для всего остального есть консоль.
 ![screenshot 2016-11-17 00 00 12](https://cloud.githubusercontent.com/assets/1147484/5063248/c0abedbc-6def-11e4-895c-acf9562b1e7f.jpg)
+
+#### [@grawl](http://github.com/grawl)
+
+MBP 13", 1280✕800, IntelliJ IDEA 14.0.1
+
+Вкладки слева (ограничение: 15), цвета светлые.
+
+Sublime-подобная карта справа – CodeGlance, помогает ориентироваться в чужом каша-коде.
+
+Снизу почти всегда открыт Grunt/Terminal/Changes.
+
+Indentation by tabs, если слишком много уровней – переключаюсь с ширины 4 на 2 пробела.
+
+![](http://i.imgur.com/yQAiPcg.pngg)
