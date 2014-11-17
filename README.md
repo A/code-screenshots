@@ -213,3 +213,19 @@ MBP 15", 1680x1050, IntelliJ WebStorm 9
 IDE открыта попроектно – отдельное окно для отдельного одного проекта. В проекте в табах уже файлы с которыми работаешь. Сплитами не пользуюсь.
 
 ![image](http://s30.postimg.org/h3ighmv8x/Screen_Shot_2014_11_17_at_07_41_11.png)
+
+#### [@smileart](https://twitter.com/smileart)
+
+* Hardware/Software: rMBP 13", iTerm2 (xterm-256color), tmux + vim
+* Font: Bitstream Vera Sans Mono for Powerline, 12pt
+* Color theme: [neverland-darker](https://github.com/trapd00r/neverland-vim-theme)
+* ZSH prompt theme: [agnoster theme fork](https://gist.github.com/smileart/3750104)
+* Dotfiles: [OMG](https://github.com/smileart/omg/tree/develop)
+* Browser: Google Chrome
+
+Tmux загружаемый в трминале по умолчанию, split pane’ов в tmux + использование окон, при работе с vim — zoom соотв. pane’а. Vim одинаковой конфигурации на серверах, в виртаульных машинах Vagrant и на локальной машинке.
+
+
+![vim+tmux](https://raw.githubusercontent.com/smileart/omg/develop/images/screenshot.png)
+
+![tmux_panel](https://raw.githubusercontent.com/smileart/omg/develop/images/tmux_panel.png)
