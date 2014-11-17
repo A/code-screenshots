@@ -204,3 +204,12 @@ rMBP 15', 2880x1800, Emacs
 Почти всегда идет сплит на 3 окна. Тема - [sanityinc-tomorrow-bright](https://github.com/purcell/color-theme-sanityinc-tomorrow)
 
 ![ssbb emacs](http://i.imgur.com/HIJUnba.png)
+
+#### [@vladimirlukyanov](https://twitter.com/nulllogic)
+
+MBP 15", 1680x1050, IntelliJ WebStorm 9
+
+Удобная IDE, опробовал разные Atom, Coda, Sumbilme и прочие. Для консоли VI, для окон – WebStorm.
+IDE открыта попроектно – отдельное окно для отдельного одного проекта. В проекте в табах уже файлы с которыми работаешь. Сплитами не пользуюсь.
+
+![image](http://s30.postimg.org/h3ighmv8x/Screen_Shot_2014_11_17_at_07_41_11.png)
