@@ -97,7 +97,7 @@ Air 13", Vim + [totalTerminal](https://github.com/binaryage/totalterminal) TT п
 
 Xcode. Обычно открыто несколько вкладок в режиме Counterparts (в центре — основной файл, справа — заголовочный файл). Цветовая схема по умолчанию.
 
-Sublime Text. Использую для простых проектов или скриптов (LaTeX, Python).
+Sublime Text. Использую для простых проектов или скриптов (LaTeX, Python). Цветовая схема: [IceWorld Light] (https://sublime.wbond.net/packages/IceWorld%20Color%20Scheme) Тема: [El Capitan] (https://sublime.wbond.net/packages/Theme%20-%20El%20Capitan)
 
 ![xcode](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/xcode.png)
 ![sublime](https://googledrive.com/host/0B9ZNZbispkESaXJnOU9ic3ZOWG8/sublime.png)
