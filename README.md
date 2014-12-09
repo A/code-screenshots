@@ -241,3 +241,14 @@ Tmux загружаемый в трминале по умолчанию, split p
 * Font: [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas)
 * Editor: Sublime Text 3
 * Theme and Color Scheme: [Spacegray (Light|Eighties)?](https://github.com/kkga/spacegray)
+
+#### [@KSDaemon](http://twitter.com/KSDaemon)
+
+Код пишу в IDE, пробовал разные, но уже довольно давно остановился на JetBrains'овских, точнее PHPStorm. Цветовая схема — однозначно темная.
+
+![PHPStorm](https://cloud.githubusercontent.com/assets/458096/5360401/2b50d8ac-7fd5-11e4-9267-b1c2a7e78869.png)
+
+Незаменимый инструмент для всего — консоль. Она открыта всегда. Совсем давно юзал штатный маковский терминал + TotalTerminal, но затем перешел на iTerm2. Он более гибкий и многофункциональный. Консоль выпадает в стиле quake по глобальной кнопке (что-ти типа F15). Окно терминала одно, вкладок много, обычно их на 1−2 больше, чем открытых проектов. В рамках таба, сплиты для отображения всех логов и свободный шелл для git и прочих задач.
+
+![iTerm](https://cloud.githubusercontent.com/assets/458096/5360419/5913319a-7fd5-11e4-9ee5-7d274f1aba28.png)
+
