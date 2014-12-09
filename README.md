@@ -251,3 +251,14 @@ Tmux загружаемый в трминале по умолчанию, split p
 Незаменимый инструмент для всего — консоль. Она открыта всегда. Совсем давно юзал штатный маковский терминал + TotalTerminal, но затем перешел на iTerm2. Он более гибкий и многофункциональный. Консоль выпадает в стиле quake по глобальной кнопке (что-ти типа F15). Окно терминала одно, вкладок много, обычно их на 1−2 больше, чем открытых проектов. В рамках таба, сплиты для отображения всех логов и свободный шелл для git и прочих задач.
 
 ![iTerm](https://cloud.githubusercontent.com/assets/458096/5360981/37cd8c2a-7fd9-11e4-864a-dac9aebd6fff.png)
+
+#### [@alekseykulikov](https://github.com/alekseykulikov)
+
+Использую стандартный терминал с немного модифицированным [~/.bash_profile](https://gist.github.com/alekseykulikov/fb388dad57e15852fe10) (z, git aliases, PS1).
+Выбор темы для редактора всегда был для меня болью, пока я не забил и не остановился на тёмной [Spacegray](https://github.com/kkga/spacegray). 
+Основные плагины для Sublime 2: [sublime-linter](https://github.com/SublimeLinter/SublimeLinter-for-ST2) (jshint) и [doc-blockr](https://github.com/spadgos/sublime-jsdocs) (jsdocs). 
+
+Разрабатываю на Macbook Pro 13', переключаюсь между окнами с помощью cmd+tab и cmd+`. Делаю много заметок в Evernote и от руки в блокноте.
+
+![Sublime Text 2 + Spacegray](http://i.imgur.com/y0mJAyx.png)
+![White Terminal](http://i.imgur.com/MkqVr7N.png)
