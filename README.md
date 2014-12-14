@@ -255,10 +255,32 @@ Tmux загружаемый в трминале по умолчанию, split p
 #### [@alekseykulikov](https://github.com/alekseykulikov)
 
 Использую стандартный терминал с немного модифицированным [~/.bash_profile](https://gist.github.com/alekseykulikov/fb388dad57e15852fe10) (z, git aliases, PS1).
-Выбор темы для редактора всегда был для меня болью, пока я не забил и не остановился на тёмной [Spacegray](https://github.com/kkga/spacegray). 
-Основные плагины для Sublime 2: [sublime-linter](https://github.com/SublimeLinter/SublimeLinter-for-ST2) (jshint) и [doc-blockr](https://github.com/spadgos/sublime-jsdocs) (jsdocs). 
+Выбор темы для редактора всегда был для меня болью, пока я не забил и не остановился на тёмной [Spacegray](https://github.com/kkga/spacegray).
+Основные плагины для Sublime 2: [sublime-linter](https://github.com/SublimeLinter/SublimeLinter-for-ST2) (jshint) и [doc-blockr](https://github.com/spadgos/sublime-jsdocs) (jsdocs).
 
 Разрабатываю на Macbook Pro 13', переключаюсь между окнами с помощью cmd+tab и cmd+`. Делаю много заметок в Evernote и от руки в блокноте.
 
 ![Sublime Text 2 + Spacegray](http://i.imgur.com/y0mJAyx.png)
 ![White Terminal](http://i.imgur.com/MkqVr7N.png)
+
+#### [@azproduction](https://twitter.com/azproduction)
+
+* Железо: Mac Mini на работе/MBA 13" дома.
+* Консоль iTerm2 в overlay mode по `Alt+~` (привычка из шутеров) цветовая тема [Solarized Dark](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)
+* Тюнинг (git aliases, PS1): [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) (использую практически не измененные),
+* Shell: zsh(oh-my-zsh) с темой [agnoster](https://gist.github.com/agnoster/3712874).
+* Шрифт для кода: [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas).
+* Основной редактор WebStorm с Default светлой темой:
+ * <3 шорткаты `Shift+Shift`, `Cmd+Shift+F`
+* Emmet (Live Template):
+ * `cl` ⇥ `console.log($LINE_NUMBER$);`
+ * `cld` ⇥ `console.log('$METHOD$@$FILENAME$:$LINE_NUMBER$');` (инструмент дебага)
+ * `re` ⇥ `$MODULE$ = require('$MODULE$');`
+ * `fe` ⇥ `function () {$END$}` (с автореформатом)
+ * `tt` ⇥ `var that = this;`
+* <3 CLI тулзы: cal, time, npm version, tmux
+* BetterTouchTool для screen snap
+
+![WebStorm](http://i.imgur.com/YMiHVys.png)
+
+![iTerm2](http://i.imgur.com/IEKEzjs.jpg)
