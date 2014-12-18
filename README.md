@@ -1,6 +1,8 @@
 code-screenshots
 ================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shuvalov-anton/code-screenshots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Скриншоты редакторов кода разных разработчиков. Возможно, это поможет формировать
 более осмысленные кодстайлы, учитывающие реальный контекст их использования: размер
 шрифта, ширину окна, плагины и тд. Ну или поможет выбрать ноут с нужной диагональю.
