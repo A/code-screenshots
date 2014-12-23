@@ -286,3 +286,13 @@ Tmux загружаемый в трминале по умолчанию, split p
 ![WebStorm](http://i.imgur.com/YMiHVys.png)
 
 ![iTerm2](http://i.imgur.com/IEKEzjs.jpg)
+
+#### [@antonfrolovsky](https://twitter.com/antonfrolovsky)
+
+* Железо MacBook Pro (Retina 13" Late 2013)
+* Консоль iTerm2 с темой Cobalt2
+* Shell oh-my-zsh с темой robbyrussell
+* Основной редактор SublimeText3 с UI SodaLight, и SolarizedLight для подсветки кода.
+
+![iTerm2](http://i.gyazo.com/33155869ec1f23e9730762ed59a8a4a8.png)
+![SublimeText](http://i.gyazo.com/9fcd4f5a942ad5924fe1dcf69c05b9b2.png)
