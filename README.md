@@ -296,3 +296,9 @@ Tmux загружаемый в трминале по умолчанию, split p
 
 ![iTerm2](http://i.gyazo.com/33155869ec1f23e9730762ed59a8a4a8.png)
 ![SublimeText](http://i.gyazo.com/9fcd4f5a942ad5924fe1dcf69c05b9b2.png)
+
+#### [@matmuchrapna](https://twitter.com/matmuchrapna)
+
+MBA 11". Терминал iTerm2+zsh, Редактор Atom c [светлой темой One](https://atom.io/themes/one-light-ui) и десятком плагинов. На скриншоте открыт проект «[typoghraphic-quotes](https://www.npmjs.com/package/typographic-quotes)» в терминале с остановленным `npm run tdd`, справа Atom c [диаграмой регулярки](https://atom.io/packages/regex-railroad-diagram).
+
+![matmuchrapna's workspace](http://i.imgur.com/PJW3yox.png)
