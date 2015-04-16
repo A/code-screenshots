@@ -302,3 +302,10 @@ Tmux загружаемый в трминале по умолчанию, split p
 MBA 11". Терминал iTerm2+zsh, Редактор Atom c [светлой темой One](https://atom.io/themes/one-light-ui) и десятком плагинов. На скриншоте открыт проект «[typoghraphic-quotes](https://www.npmjs.com/package/typographic-quotes)» в терминале с остановленным `npm run tdd`, справа Atom c [диаграмой регулярки](https://atom.io/packages/regex-railroad-diagram).
 
 ![matmuchrapna's workspace](http://i.imgur.com/PJW3yox.png)
+
+#### [@roman01la](https://twitter.com/roman01la)
+
+MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/one-dark-ui) и iTerm2+zsh с модифицированным [prompt](https://gist.github.com/roman01la/a031615754abea3c6162).
+
+![roman01la's code editor](http://i.imgur.com/WsAZjLd.png)
+![roman01la's terminal](http://i.imgur.com/KjXsRkd.png)
