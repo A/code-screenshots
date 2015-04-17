@@ -309,3 +309,14 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 
 ![roman01la's code editor](http://i.imgur.com/WsAZjLd.png)
 ![roman01la's terminal](http://i.imgur.com/KjXsRkd.png)
+
+#### [@roose](https://twitter.com/mr_roose)
+
+* Железо: Lenovo U510
+* Консоль: Conemu, тема Monokai, вызывается по `Ctrl+~`, две колонки, в одной обычно `gulp watch`, во втором `gulp build` или еще что-нибудь
+* Редактор: Sublime Text 3, с измененной под себя Piatto Dark, две колонки, слева обычно HTML, справа CSS, JS
+* Emmet
+* Браузер: Firefox
+* [Wox](http://getwox.com/)
+
+![roose's workspace](http://habrastorage.org/files/309/7a9/059/3097a90591884d549d18f2b5b42af6c2.png)
