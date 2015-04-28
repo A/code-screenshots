@@ -177,7 +177,7 @@ Ubuntu 14.04, [SublimeText 3](http://www.sublimetext.com/), Theme: Monokai.
 
 #### [@davydovanton](https://github.com/davydovanton)
 
-MBP 13". Vim (мой [vimrc](https://github.com/davydovanton/dotfiles/blob/master/vim/vimrc)) + zsh (мой [zshrc](https://github.com/davydovanton/dotfiles/blob/master/zsh/zshrc)) + tmux (мой [tmux.conf](https://github.com/davydovanton/dotfiles/blob/master/tmux)) + iterm2 в полноэкранном режиме (который старый)
+MBP 13". Vim (мой [nvimrc](https://github.com/davydovanton/dotfiles/blob/master/vim/vimrc)) + zsh (мой [zshrc](https://github.com/davydovanton/dotfiles/blob/master/zsh/zshrc)) + tmux (мой [tmux.conf](https://github.com/davydovanton/dotfiles/blob/master/tmux)) + iterm2 в полноэкранном режиме (который старый)
 
 ![screenshot 2014-11-17 00 01 51](https://cloud.githubusercontent.com/assets/1147484/5063249/c0d9a66c-6def-11e4-87c9-7706fa80ba18.jpg)
 
@@ -187,6 +187,8 @@ MBP 13". Vim (мой [vimrc](https://github.com/davydovanton/dotfiles/blob/maste
 Навигация по NERDTree, ctrlp + буфферы. В insert моде, для мелких перемещений курсора, использую emacs-like хоткеи. Иногда выручает [slime](https://github.com/jpalardy/vim-slime).
 Из GUI открыт всегда только браузер, для всего остального есть консоль.
 ![screenshot 2016-11-17 00 00 12](https://cloud.githubusercontent.com/assets/1147484/5063248/c0abedbc-6def-11e4-895c-acf9562b1e7f.jpg)
+
+*UPDATE: вместо vim теперь использую [nvim](http://neovim.org)*
 
 #### [@grawl](http://github.com/grawl)
 
