@@ -338,3 +338,14 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 * Шрифт: [Hack](http://sourcefoundry.org/hack/)
 * [Дотфайлы](https://github.com/sapegin/dotfiles)
 * Внешний вид: [работа](https://www.instagram.com/p/6MaqQNQhqH/) и [дом](https://www.instagram.com/p/9Fvvtbwhl-/)
+
+
+#### [@ymatuhin](https://twitter.com/ymatuhin)
+
+* MBP 13" без ретины.
+* Atom со стандартной темной темой [One Dark](https://atom.io/themes/one-dark-ui). Открыта боковая панель и один * файл, без сплитов.
+* Iterm2 + zsh выползает сверху по CapsLock.
+* Google Chrome на другом мониторе, половину места по вертикали занимают dev tools.
+
+![ymatuhin's text editor](http://i.imgur.com/R3KcpPv.png)
+![ymatuhin's terminal](http://i.imgur.com/rzmkkmx.png)
