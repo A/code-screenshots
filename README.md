@@ -322,3 +322,19 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 * [Wox](http://getwox.com/)
 
 ![roose's workspace](http://habrastorage.org/files/309/7a9/059/3097a90591884d549d18f2b5b42af6c2.png)
+
+#### [@sapegin](https://twitter.com/sapegin)
+
+Работа. rMBP 15" + 24", IntelliJ RubyMine. Экран макбука не использую, глаза разбегаются.
+
+![sapegin's workspace](http://wow.sapegin.me/image/2e2v3O2O1g38/editor-work.png)
+
+Дом. MBP 15", Sublime Text, скин [El Capitan](https://github.com/iccir/El-Capitan-Theme).
+
+![sapegin's workspace](http://wow.sapegin.me/image/3m2o143y1Z1Q/editor-home.png)
+
+* Цветовая тема редактора: [светлая Tomorrow](https://github.com/chriskempson/tomorrow-theme)
+* Цветовая тема терминала: [собственная](https://github.com/sapegin/dotfiles/tree/master/color)
+* Шрифт: [Hack](http://sourcefoundry.org/hack/)
+* [Дотфайлы](https://github.com/sapegin/dotfiles)
+* Внешний вид: [работа](https://www.instagram.com/p/6MaqQNQhqH/) и [дом](https://www.instagram.com/p/9Fvvtbwhl-/)
