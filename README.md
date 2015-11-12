@@ -20,7 +20,7 @@ MBP 15". Vim. Обычно у меня открыто 3 вертикальных
 хватает экрана ноута. На соседнем экране Exposes открыт браузер. Между экранами
 переключаюсь по ctrl+[←|→].
 
-![image](https://cloud.githubusercontent.com/assets/1410106/5058193/d220b004-6cf6-11e4-9e04-6f2dc2520b9d.png)
+![image](https://cloud.githubusercontent.com/assets/1410106/11130757/d1103dd8-8997-11e5-9050-c3d1cea1e148.png)
 
 #### [@pepelsbey](https://twitter.com/pepelsbey)
 
