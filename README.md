@@ -349,3 +349,14 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 
 ![ymatuhin's text editor](http://i.imgur.com/R3KcpPv.png)
 ![ymatuhin's terminal](http://i.imgur.com/rzmkkmx.png)
+
+
+#### [@madundead](https://twitter.com/madundead)
+
+* rMBP 13". iTerm, fish, vim, tmux :heart:
+* Цветовая схема - [solarized](http://ethanschoonover.com/solarized)
+* Шрифт - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* Дотфайлы - [stuff](https://github.com/madundead/stuff)
+* пытаюсь найти баланс между минимализмом рабочего сэтапа и его функциональностью
+
+![image](https://i.imgur.com/AdNp3BM.png)
