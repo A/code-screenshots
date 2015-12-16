@@ -360,3 +360,14 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 * пытаюсь найти баланс между минимализмом рабочего сэтапа и его функциональностью
 
 ![image](https://i.imgur.com/AdNp3BM.png)
+
+
+#### [@thetaktes](https://twitter.com/thetaktes)
+
+Старый, бюджетный ноутбук от Acer с Ubuntu 14.04. Обычно работаю в Atom с плагинами для Elixir/Ruby, для терминала использую плагин [terminal-plus](https://github.com/jeremyramin/terminal-plus)
+
+![image](http://i.imgur.com/XS8JKld.png)
+
+Для быстрого внесения правок и для редактирования одиночных файлов использую Vim с плагином [vim-elixir](https://github.com/elixir-lang/vim-elixir)
+
+![image](http://i.imgur.com/xzlb88C.png)
