@@ -371,3 +371,16 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 Для быстрого внесения правок и для редактирования одиночных файлов использую Vim с плагином [vim-elixir](https://github.com/elixir-lang/vim-elixir)
 
 ![image](http://i.imgur.com/xzlb88C.png)
+
+
+#### [@oivva](https://twitter.com/oivvatweets)
+
+Работа. PC + 23", Sublime Text 3, тема и цветовая схема [Boxy Yesterday](https://github.com/oivva/boxy#boxy-yesterday).
+
+![oivva's workspace](https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/shared/boxy-work.png)
+
+Дом. Mac Mini + 23", Sublime Text 3, тема и цветовая схема [Boxy Tomorrow](https://github.com/oivva/boxy#boxy-tomorrow).
+
+![oivva's workspace](https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/shared/boxy-home.png)
+
+Шрифт: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=Roboto+mono)
