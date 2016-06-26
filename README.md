@@ -384,3 +384,21 @@ MBP 13". Редактор Atom c темой [One Dark](https://atom.io/themes/on
 ![oivva's workspace](https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/shared/boxy-home.png)
 
 Шрифт: [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono?query=Roboto+mono)
+
+#### [@artofhuman](https://twitter.com/artofhuman)
+
+MBP 13".
+
+Использую vim + tmux + zsh + iterm2 в полный экран.
+
+Мои [dotfiles](https://github.com/artofhuman/dotfiles).
+
+В виме навигация по коду через ctags + NERDTree + ctrp. Очень редко использую табы, обычно вся работа с кодом через буферы + сплиты.
+
+Сплиты очень люблю и использую их везде в полный рост как в виме так и в тмкусе. Обычно в тмуксе в левом сплите открыт вим, в правом несколько консолей (тесты, REPL и тп.).
+Тесты запускаю обычно сразу из вима по хоткеям (на строке где курсор, либо файл целиком).
+
+Цветовая схема jellybeans как в виме, так и в терминале.
+Шрифт DejaVu Sans Mono 12pt.
+
+![screen shot 2016-06-26 at 20 24 53](https://cloud.githubusercontent.com/assets/1192122/16363390/dfd427f6-3be1-11e6-8bd1-381605312d0e.png)
