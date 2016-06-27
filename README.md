@@ -402,3 +402,24 @@ MBP 13".
 Шрифт DejaVu Sans Mono 12pt.
 
 ![screen shot 2016-06-26 at 20 24 53](https://cloud.githubusercontent.com/assets/1192122/16363390/dfd427f6-3be1-11e6-8bd1-381605312d0e.png)
+
+#### [@voischev](https://twitter.com/voischev)
+
+MBP 13".
+
+Использую vim + bash + iterm2. Люблю работать в окнах.
+
+Мои [dotfiles](https://github.com/voischev/dotfiles).
+
+Недавно там был конфиг и для Sublime Text, но VIM победил. Стандартный Sublime Text установлен, скорее всего для быстрого просмотра файлов из Finder.
+
+Использую навигацию по фалам через буферы и сплиты + CtrlP или Ack. По коду стандартный поиск `/`, EasyMotion, или тот же CtrlPFunky, или Ack + другие консольные варианты. NERDTree больше не использую, как оказалось в больших проектах совсем не удобно работать именно с представлением в виде дерева. В замен использую родной Netrw. 
+
+В iTerm использую табы, редко сплиты.
+
+Вообще конфиг идет на улегчение в пользу стандартных функций VIM.
+
+Цветовая схема Hybrid, в терминале Solarized Dark. Нравятся и светлые темы, но Hybrid хорош именно в темной.
+Шрифт Monaco 12pt.
+
+<img width="962" alt="2016-06-27 12 03 48" src="https://cloud.githubusercontent.com/assets/1510217/16375175/33d73940-3c6b-11e6-9036-88ed4a38fd69.png">
