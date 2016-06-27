@@ -417,14 +417,21 @@ MBP 13".
 
 #### [@mugukamil](https://github.com/mugukamil)
 
+
+<img width="1392" alt="screenshot 2016-06-27 14 11 15" src="https://cloud.githubusercontent.com/assets/4193470/16378237/6a09dd30-3c73-11e6-8ad4-7f6b792756d0.png">
+
 Text Editor: [ST 3](http://www.sublimetext.com/), 
 Theme: [Material Theme](https://github.com/equinusocio/material-theme), 
 Color Scheme: [Broadcast Mod](https://github.com/mugukamil/dotfiles/blob/master/sublime-themes/Broadcast.tmTheme), 
 Font: Menlo, Size: 14, line-space: 10
 
+<img width="1387" alt="screenshot 2016-06-27 14 04 50" src="https://cloud.githubusercontent.com/assets/4193470/16378236/69eb1882-3c73-11e6-9990-c5296713284b.png">
+
 Text Editor Second: [MacVim](https://macvim-dev.github.io/macvim/)
 Color Scheme: [AtomDark](https://github.com/gosukiwi/vim-atom-dark)
 Font: Fira Code, Size: 14, Linespace: 15
+
+<img width="1280" alt="screenshot 2016-06-27 14 11 21" src="https://cloud.githubusercontent.com/assets/4193470/16378238/6a1e655c-3c73-11e6-97ad-890af61e961b.png">
 
 Terminal - [iTerm3](http://iterm2.com/), 
 iTerm Theme: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme/blob/master/iTerm2/Tomorrow%20Night%20Eighties.itermcolors), 
