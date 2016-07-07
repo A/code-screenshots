@@ -148,15 +148,6 @@ Asus 15.6". Sublime Text 3. Иногда использую сайдбар дл�
 
 ![image](https://cloud.githubusercontent.com/assets/1968098/5061697/af3c9bde-6daa-11e4-8988-3abae00354e5.png)
 
-#### [@mugukamil](https://github.com/mugukamil)
-
-Left Side - Text Editor: [ST 2](http://www.sublimetext.com/), Theme: [Soda](https://github.com/buymeasoda/soda-theme/), Color Scheme: [Monokai Soda](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip), Font: Meslo/13
-
-Right Side - [iTerm2](http://iterm2.com/), iTerm Theme: [Tomorrow Night](https://github.com/chriskempson/tomorrow-theme/blob/master/iTerm2/Tomorrow%20Night.itermcolors), Shell: oh-my-zsh, Shell-Theme: Cloud, font: [Meslo LG S for Powerline](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20S%20Regular%20for%20Powerline.otf) 13.5.
-
-Environment: Hackintosh 10.9.5 CustoMac.
-
-![image](https://raw.githubusercontent.com/mugukamil/mugukamil.github.io/master/images/screen.png)
 
 #### [@kyuujitsu](https://twitter.com/kyuujitsu)
 
@@ -423,3 +414,35 @@ MBP 13".
 Шрифт Monaco 12pt.
 
 <img width="962" alt="2016-06-27 12 03 48" src="https://cloud.githubusercontent.com/assets/1510217/16375175/33d73940-3c6b-11e6-9036-88ed4a38fd69.png">
+
+#### [@mugukamil](https://github.com/mugukamil)
+
+
+<img width="1392" alt="screenshot 2016-06-27 14 11 15" src="https://cloud.githubusercontent.com/assets/4193470/16378237/6a09dd30-3c73-11e6-8ad4-7f6b792756d0.png">
+
+Text Editor: [ST 3](http://www.sublimetext.com/), 
+Theme: [Material Theme](https://github.com/equinusocio/material-theme), 
+Color Scheme: [Broadcast Mod](https://github.com/mugukamil/dotfiles/blob/master/sublime-themes/Broadcast.tmTheme), 
+Font: Menlo, Size: 14, line-space: 10
+
+<img width="1387" alt="screenshot 2016-06-27 14 04 50" src="https://cloud.githubusercontent.com/assets/4193470/16378236/69eb1882-3c73-11e6-9990-c5296713284b.png">
+
+Text Editor Second: [MacVim](https://macvim-dev.github.io/macvim/)
+Color Scheme: [AtomDark](https://github.com/gosukiwi/vim-atom-dark)
+Font: Fira Code, Size: 14, Linespace: 15
+
+<img width="1280" alt="screenshot 2016-06-27 14 11 21" src="https://cloud.githubusercontent.com/assets/4193470/16378238/6a1e655c-3c73-11e6-97ad-890af61e961b.png">
+
+Terminal - [iTerm3](http://iterm2.com/), 
+iTerm Theme: [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme/blob/master/iTerm2/Tomorrow%20Night%20Eighties.itermcolors), 
+Shell: [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), 
+Shell-Theme: Cloud, 
+font: Source Code Pro Medium, Size: 14, line-space: 200%
+
+Environment: Hackintosh El Capitan 10.11.4. 
+Monitor: DELL S2316H. 
+Hardware: Intel Core i5 4440. 
+Graphics: Intel hd 4600
+RAM: 16GB
+System Disk: 128Gb SSD Samsung EVO 940
+Hard Drive: Seagate Barracuda 1 TB
