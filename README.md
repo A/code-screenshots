@@ -444,3 +444,18 @@ Graphics: Intel hd 4600
 RAM: 16GB
 System Disk: 128Gb SSD Samsung EVO 940
 Hard Drive: Seagate Barracuda 1 TB
+
+
+#### [@sobolevn](https://github.com/sobolevn)
+
+Я использую VSCode и Hyper в качестве терминала. Спаун терминала по `ctlr+;` поверх любого окна.
+Я сделал репозиторий со своими [`dotfiles`](https://github.com/sobolevn/dotfiles), 
+где можно посмотреть/скопировать всю мою конфигурацию для вообще всего.
+
+Вот так все выглядит:
+
+[![sobolevn vscode](https://raw.githubusercontent.com/sobolevn/dotfiles/master/media/vscode-elixir.png)](https://github.com/sobolevn/dotfiles)
+
+[![sobolevn hyper](https://raw.githubusercontent.com/sobolevn/dotfiles/master/media/hyper.png)](https://github.com/sobolevn/dotfiles)
+
+Наслаждайтесь! :tada:
